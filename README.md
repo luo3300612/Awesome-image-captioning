@@ -1,7 +1,7 @@
 # Awesome-Image-Captioning
 Image captioning paper tag cluster
 
-|paper|link|code|tags|
+|paper|tags|link|code|
 |---|---|---|---|
 |Engaging Image Captioning via Personality|new dataset,CVPR2019,CVPR,diversity|https://arxiv.org/pdf/1810.10665.pdf|
 |Point Novel Objects in Image Captioning|CVPR2019,CVPR,novel object captioning,object detection|https://arxiv.org/pdf/1904.11251.pdf|
